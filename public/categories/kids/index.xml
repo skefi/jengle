@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kids on JENGLE</title>
-    <link>//localhost:4321/categories/kids/</link>
+    <link>/categories/kids/</link>
     <description>Recent content in Kids on JENGLE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/kids/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/kids/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Short video (ENG)</title>
-      <link>//localhost:4321/resources/videoeng/</link>
+      <link>/resources/videoeng/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/resources/videoeng/</guid>
+      <guid>/resources/videoeng/</guid>
       <description>Biodiversity: all different but all linked to each other You, me, the bird, the ladybug, the poppy, we are all connected and we are the biodiversity.&#xA;Here is a 3 minutes educational video explaining the concept of inter-relationships in nature.&#xA;Biodiversity is a story of species but also of links! It is these interdepencies in nature that allow us to understand the functioning of ecological communities and their responses to disturbances.</description>
     </item>
     <item>
       <title>Courte vidéo (FR)</title>
-      <link>//localhost:4321/resources/videofr/</link>
+      <link>/resources/videofr/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/resources/videofr/</guid>
+      <guid>/resources/videofr/</guid>
       <description>Biodiversité : tous différents mais tous reliés Courte animation pédagogique sur la biodiversité à l&amp;rsquo;occasion de la journée internationale de la diversité biologique 2021.&#xA;La biodiversité, c&amp;rsquo;est une histoire d&amp;rsquo;espèces mais aussi de relations ! Ce sont ces relations d&amp;rsquo;interdépendance dans la nature qui permettent de comprendre le fonctionnement des communautés écologiques et leurs réponses à des perturbations.&#xA;Texte : Sonia Kéfi (ISEM/CNRS) et Vincent Miele (LBBE/CNRS) Illustrations : Anna van der Kaaden (Anna mAKe) Musique : Dik van der Kaaden</description>
     </item>
   </channel>

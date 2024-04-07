@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/activities/</loc>
+    <loc>/activities/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/activities/boardnetwork/</loc>
+    <loc>/activities/boardnetwork/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
+    <loc>/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/meetup/</loc>
+    <loc>/categories/meetup/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/biodiversity/</loc>
+    <loc>/categories/biodiversity/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/kids/</loc>
+    <loc>/categories/kids/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/resources/</loc>
+    <loc>/resources/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/resources/videoeng/</loc>
+    <loc>/resources/videoeng/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/video/</loc>
+    <loc>/tags/video/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/video/</loc>
+    <loc>/categories/video/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/resources/videofr/</loc>
+    <loc>/resources/videofr/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/activities/kidnetwork/</loc>
+    <loc>/activities/kidnetwork/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/workshop/</loc>
+    <loc>/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/about/header/</loc>
+    <loc>/about/header/</loc>
   </url><url>
-    <loc>//localhost:4321/about/main/</loc>
+    <loc>/about/main/</loc>
   </url><url>
-    <loc>//localhost:4321/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:4321/contributors/</loc>
+    <loc>/contributors/</loc>
   </url><url>
-    <loc>//localhost:4321/license/</loc>
+    <loc>/license/</loc>
   </url><url>
-    <loc>//localhost:4321/series/</loc>
+    <loc>/series/</loc>
   </url>
 </urlset>

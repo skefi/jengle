@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JENGLE</title>
-    <link>//localhost:4321/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on JENGLE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meetup</title>
-      <link>//localhost:4321/categories/meetup/</link>
+      <link>/categories/meetup/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/meetup/</guid>
+      <guid>/categories/meetup/</guid>
       <description></description>
     </item>
     <item>
       <title>Biodiversity</title>
-      <link>//localhost:4321/categories/biodiversity/</link>
+      <link>/categories/biodiversity/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/biodiversity/</guid>
+      <guid>/categories/biodiversity/</guid>
       <description></description>
     </item>
     <item>
       <title>Kids</title>
-      <link>//localhost:4321/categories/kids/</link>
+      <link>/categories/kids/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/kids/</guid>
+      <guid>/categories/kids/</guid>
       <description></description>
     </item>
     <item>
       <title>Video</title>
-      <link>//localhost:4321/categories/video/</link>
+      <link>/categories/video/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/video/</guid>
+      <guid>/categories/video/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>//localhost:4321/categories/workshop/</link>
+      <link>/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/workshop/</guid>
+      <guid>/categories/workshop/</guid>
       <description></description>
     </item>
   </channel>

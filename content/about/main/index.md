@@ -11,11 +11,6 @@ outro: |
 
 ---
 
-bla bla
-
----
-
-bla bla bla
 
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
