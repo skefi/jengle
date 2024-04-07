@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on JENGLE</title>
+    <link>/about/</link>
+    <description>Recent content in About on JENGLE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/header/</guid>
+      <description>Sensitizing children about the importance of inter-relationships in nature.&#xA;We are facing the 6th mass extinction, in addition to other multiple effects of human activities on ecosystems. Ecosystems could change dramatically in the coming decades, which could affect nature as a whole, including us humans and our way of life. In this context, actions must be taken to preserve ecological systems and ourselves within them. In particular, children need to be aware of the current challenges we are facing to become active and thoughtful participants of our society.</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/main/</guid>
+      <description>bla bla&#xA;bla bla bla&#xA;** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+  </channel>
+</rss>

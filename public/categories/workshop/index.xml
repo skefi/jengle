@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on JENGLE</title>
+    <link>/categories/workshop/</link>
+    <description>Recent content in Workshop on JENGLE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kids network</title>
+      <link>/activities/kidnetwork/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/activities/kidnetwork/</guid>
+      <description>A game where kids act the species of a network. The idea is that kids perform a game which consists in building an in-vivo network with children: kids play the species of an ecosystem and connect to other kids/species with ropes of different colors, mimicking different interaction types.&#xA;This is based on the local network of species of the school where the activity is performed. For example, this was the was a network from the forest near Chambéry, France.</description>
+    </item>
+  </channel>
+</rss>
