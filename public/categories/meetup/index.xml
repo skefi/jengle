@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetup on JENGLE</title>
-    <link>/categories/meetup/</link>
+    <link>//localhost:4321/categories/meetup/</link>
     <description>Recent content in Meetup on JENGLE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Board network</title>
-      <link>/activities/boardnetwork/</link>
+      <link>//localhost:4321/activities/boardnetwork/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>/activities/boardnetwork/</guid>
+      <guid>//localhost:4321/activities/boardnetwork/</guid>
       <description></description>
     </item>
   </channel>
